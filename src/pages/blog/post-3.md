@@ -6,6 +6,7 @@ tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
+image: images/facebook.jpg
 ---
 ## Hey, this is a post
 

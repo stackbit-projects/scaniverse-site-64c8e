@@ -7,9 +7,6 @@ image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
 ---
-## Lorem ipsum
+## Hey, this is a post
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Posts seem to work automatically, which is great.

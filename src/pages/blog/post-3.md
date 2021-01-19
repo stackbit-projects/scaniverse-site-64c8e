@@ -7,6 +7,7 @@ image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
 image: images/facebook.jpg
+author: src/data/team/person-08j5jf1mf.json
 ---
 ## Hey, this is a post
 

@@ -1,7 +1,8 @@
 ---
 title: The reason why this works
 date: '2021-01-19'
-categories: []
+categories:
+  - src/data/categories/category-c6f0ebj5f.json
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
